@@ -1,5 +1,5 @@
 {
-  "name": "react-component-library",
+  "name": "react-native-web-component-library",
   "version": "1.0.0",
   "description": "Reusable React components library template",
   "main": "dist/index.js",
